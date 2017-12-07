@@ -17,6 +17,7 @@ import javax.swing.JToolBar;
 import javax.swing.UIManager;
 import javax.swing.border.EmptyBorder;
 import javax.swing.JScrollPane;
+import javax.swing.JLabel;
 
 public class Gateway {
 
